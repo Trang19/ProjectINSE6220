@@ -1,1 +1,1 @@
-# project-INSE6220
+# projectINSE6220
